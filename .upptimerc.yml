@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Sage IQ
     url: https://sage-iq.com/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: x-crx-dev
+    url: $SECRET_SITE_CPS_DEV
+  - name: x-crx-prod
+    url: $SECRET_SITE_CPS_PROD
+  - name: tcg
+    url: $SECRET_SITE_TCG_PROD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,10 +18,12 @@ status-website:
   cname: status.sage-iq.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Sage IQ
+  introTitle: Status Page
+  introMessage: This is the [Sage IQ](https://sage-iq.com) status page.
   navbar:
+    - title: Home
+      href: https://sage-iq.com
     - title: Status
       href: /
     - title: GitHub
@@ -32,3 +34,6 @@ status-website:
 
 assignees:
   - ojas
+
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
