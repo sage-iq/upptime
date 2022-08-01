@@ -6,9 +6,11 @@ sites:
   - name: Sage IQ
     url: https://sage-iq.com/
   - name: x-crx-dev
-    url: $SECRET_SITE_CPS_DEV
+    url: https://$SECRET_HOSTNAME_CPS_DEV/api/system/operations-check
+  - name: x-crx-stage
+    url: https://$SECRET_HOSTNAME_CPS_STAGE/api/system/operations-check
   - name: x-crx-prod
-    url: $SECRET_SITE_CPS_PROD
+    url: https://$SECRET_HOSTNAME_CPS_PROD/api/system/operations-check
   - name: tcg
     url: $SECRET_SITE_TCG_PROD
 
