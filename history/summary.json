@@ -4,9 +4,9 @@
     "url": "https://sage-iq.com/",
     "icon": "https://favicons.githubusercontent.com/sage-iq.com",
     "slug": "sage-iq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 171,
     "timeMonth": 160,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   },
   {
     "name": "x-crx-dev",
@@ -61,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "x-crx-prod",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.74%",
+    "uptimeYear": "94.77%",
     "time": 246,
     "timeDay": 285,
     "timeWeek": 244,
