@@ -28,7 +28,7 @@
     "uptime": "72.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.35%",
+    "uptimeMonth": "62.37%",
     "uptimeYear": "72.67%",
     "time": 309,
     "timeDay": 397,
@@ -157,19 +157,19 @@
     "url": "$SECRET_SITE_TCG_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcg",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 415,
-    "timeWeek": 262,
-    "timeMonth": 221,
-    "timeYear": 275,
+    "time": 274,
+    "timeDay": 295,
+    "timeWeek": 251,
+    "timeMonth": 219,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-12-05": 1
+      "2022-12-05": 8
     }
   },
   {
