@@ -24,11 +24,11 @@
     "url": "https://$SECRET_HOSTNAME_CPS_DEV/api/system/operations-check",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "x-crx-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "72.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.37%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "62.38%",
     "uptimeYear": "72.67%",
     "time": 309,
     "timeDay": 397,
@@ -36,6 +36,7 @@
     "timeMonth": 328,
     "timeYear": 309,
     "dailyMinutesDown": {
+      "2022-12-05": 2,
       "2022-11-17": 446,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
@@ -159,27 +160,25 @@
     "slug": "tcg",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
     "timeDay": 295,
     "timeWeek": 251,
     "timeMonth": 219,
     "timeYear": 274,
-    "dailyMinutesDown": {
-      "2022-12-05": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Labs",
     "url": "https://labs.sage-iq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/labs.sage-iq.com.ico",
     "slug": "labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -188,6 +187,8 @@
     "timeWeek": 312,
     "timeMonth": 211,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 0
+    }
   }
 ]
