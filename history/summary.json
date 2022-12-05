@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "x-crx-dev",
     "status": "up",
-    "uptime": "72.66%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "62.28%",
-    "uptimeYear": "72.66%",
+    "uptime": "72.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "62.35%",
+    "uptimeYear": "72.67%",
     "time": 309,
     "timeDay": 397,
     "timeWeek": 358,
     "timeMonth": 328,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2022-12-05": 9,
       "2022-11-17": 446,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
@@ -158,10 +157,10 @@
     "url": "$SECRET_SITE_TCG_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
@@ -169,7 +168,9 @@
     "timeWeek": 262,
     "timeMonth": 221,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 1
+    }
   },
   {
     "name": "Labs",
@@ -178,17 +179,15 @@
     "slug": "labs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
     "timeDay": 522,
     "timeWeek": 312,
     "timeMonth": 211,
     "timeYear": 207,
-    "dailyMinutesDown": {
-      "2022-12-05": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
