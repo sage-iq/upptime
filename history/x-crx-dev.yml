@@ -1,7 +1,7 @@
 url: https://$SECRET_HOSTNAME_CPS_DEV/api/system/operations-check
 status: up
 code: 200
-responseTime: 265
-lastUpdated: 2023-01-26T23:01:17.989Z
+responseTime: 410
+lastUpdated: 2023-01-27T23:01:02.821Z
 startTime: Sat Jul 02 2022 19:41:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
