@@ -1,7 +1,7 @@
 url: https://$SECRET_HOSTNAME_CPS_STAGE/api/system/operations-check
 status: down
 code: 500
-responseTime: 331
-lastUpdated: 2023-03-28T23:01:05.654Z
+responseTime: 348
+lastUpdated: 2023-03-29T23:00:43.781Z
 startTime: Mon Aug 01 2022 16:37:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
