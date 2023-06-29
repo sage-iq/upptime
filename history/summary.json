@@ -4,18 +4,19 @@
     "url": "https://sage-iq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sage-iq.com.ico",
     "slug": "sage-iq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 68,
-    "timeWeek": 115,
+    "timeDay": 100,
+    "timeWeek": 117,
     "timeMonth": 137,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2023-06-29": 0,
       "2022-09-14": 15
     }
   },
