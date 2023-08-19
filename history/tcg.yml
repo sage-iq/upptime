@@ -1,7 +1,7 @@
 url: $SECRET_SITE_TCG_PROD
 status: up
 code: 200
-responseTime: 232
-lastUpdated: 2023-08-18T23:00:45.998Z
-startTime: Sat Jul 02 2022 19:41:29 GMT+0000 (Coordinated Universal Time)
+responseTime: 164
+lastUpdated: 2023-08-19T23:00:45.986Z
+startTime: 2022-07-02T19:41:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
