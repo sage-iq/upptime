@@ -4,20 +4,18 @@
     "url": "https://sage-iq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sage-iq.com.ico",
     "slug": "sage-iq",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 126,
-    "timeWeek": 142,
-    "timeMonth": 129,
+    "timeDay": 132,
+    "timeWeek": 152,
+    "timeMonth": 131,
     "timeYear": 158,
-    "dailyMinutesDown": {
-      "2023-09-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tcg",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 404,
-    "timeWeek": 290,
-    "timeMonth": 239,
+    "timeDay": 340,
+    "timeWeek": 315,
+    "timeMonth": 243,
     "timeYear": 276,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 267,
-    "timeWeek": 192,
-    "timeMonth": 190,
+    "timeDay": 242,
+    "timeWeek": 213,
+    "timeMonth": 191,
     "timeYear": 216,
     "dailyMinutesDown": {}
   }
