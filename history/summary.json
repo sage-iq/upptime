@@ -15,7 +15,9 @@
     "timeWeek": 155,
     "timeMonth": 136,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-24": 0
+    }
   },
   {
     "name": "tcg",
