@@ -6,18 +6,16 @@
     "slug": "sage-iq",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 210,
-    "timeWeek": 166,
-    "timeMonth": 140,
+    "time": 157,
+    "timeDay": 183,
+    "timeWeek": 162,
+    "timeMonth": 139,
     "timeYear": 159,
-    "dailyMinutesDown": {
-      "2023-09-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tcg",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 305,
-    "timeWeek": 322,
-    "timeMonth": 255,
+    "time": 274,
+    "timeDay": 422,
+    "timeWeek": 347,
+    "timeMonth": 261,
     "timeYear": 277,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 226,
-    "timeWeek": 237,
-    "timeMonth": 197,
+    "timeDay": 317,
+    "timeWeek": 250,
+    "timeMonth": 200,
     "timeYear": 216,
     "dailyMinutesDown": {}
   }
