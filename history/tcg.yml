@@ -1,7 +1,7 @@
 url: $SECRET_SITE_TCG_PROD
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-16T14:58:54.199Z
+status: up
+code: 200
+responseTime: 5151
+lastUpdated: 2025-08-16T15:08:02.167Z
 startTime: 2022-07-02T19:41:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
