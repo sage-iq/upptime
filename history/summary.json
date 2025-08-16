@@ -22,19 +22,19 @@
     "url": "$SECRET_SITE_TCG_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcg",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 153,
-    "timeWeek": 219,
-    "timeMonth": 245,
-    "timeYear": 276,
+    "time": 279,
+    "timeDay": 2652,
+    "timeWeek": 835,
+    "timeMonth": 399,
+    "timeYear": 289,
     "dailyMinutesDown": {
-      "2025-08-16": 0
+      "2025-08-16": 9
     }
   },
   {
