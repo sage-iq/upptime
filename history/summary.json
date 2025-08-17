@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 160,
-    "timeWeek": 152,
-    "timeMonth": 166,
+    "timeDay": 162,
+    "timeWeek": 161,
+    "timeMonth": 167,
     "timeYear": 169,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "tcg",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 2652,
-    "timeWeek": 835,
-    "timeMonth": 399,
+    "timeDay": 2705,
+    "timeWeek": 837,
+    "timeMonth": 400,
     "timeYear": 289,
-    "dailyMinutesDown": {
-      "2025-08-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Labs",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 89,
-    "timeWeek": 143,
-    "timeMonth": 200,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 199,
     "timeYear": 221,
     "dailyMinutesDown": {}
   }
