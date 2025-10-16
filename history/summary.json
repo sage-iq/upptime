@@ -40,9 +40,9 @@
     "url": "https://labs.sage-iq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/labs.sage-iq.com.ico",
     "slug": "labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 255,
     "timeMonth": 333,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-16": 0
+    }
   }
 ]
