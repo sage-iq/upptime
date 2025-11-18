@@ -4,19 +4,19 @@
     "url": "https://sage-iq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sage-iq.com.ico",
     "slug": "sage-iq",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 176,
-    "timeDay": 176,
-    "timeWeek": 294,
-    "timeMonth": 220,
+    "timeDay": 177,
+    "timeWeek": 283,
+    "timeMonth": 219,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-11-18": 15
+      "2025-11-18": 32
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://labs.sage-iq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/labs.sage-iq.com.ico",
     "slug": "labs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 218,
+    "timeDay": 228,
     "timeWeek": 248,
-    "timeMonth": 316,
+    "timeMonth": 314,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 17
     }
   }
 ]
