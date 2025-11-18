@@ -4,18 +4,20 @@
     "url": "https://sage-iq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sage-iq.com.ico",
     "slug": "sage-iq",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 114,
-    "timeWeek": 308,
-    "timeMonth": 219,
+    "timeDay": 148,
+    "timeWeek": 298,
+    "timeMonth": 218,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 15
+    }
   },
   {
     "name": "tcg",
