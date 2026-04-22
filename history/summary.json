@@ -42,19 +42,19 @@
     "url": "https://labs.sage-iq.com/",
     "icon": "https://icons.duckduckgo.com/ip3/labs.sage-iq.com.ico",
     "slug": "labs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 268,
-    "timeDay": 349,
-    "timeWeek": 230,
-    "timeMonth": 231,
+    "timeDay": 240,
+    "timeWeek": 217,
+    "timeMonth": 228,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2026-04-22": 0,
+      "2026-04-22": 27,
       "2025-11-18": 123
     }
   }
